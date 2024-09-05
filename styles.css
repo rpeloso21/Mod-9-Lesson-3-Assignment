@@ -1,0 +1,9 @@
+.site-header {
+    background-image: url('bikes.avif');
+    height: 400px;
+    /* background-repeat: no-repeat; */
+}
+
+a:hover {
+    color: red;
+}
